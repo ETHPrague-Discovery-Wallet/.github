@@ -1,6 +1,6 @@
 # 🌈 **Discovery Account**
 
-Discovery Account is a project that aimed to provide a secure solution to initiate new blockchain users their first DeFi transactions. The smart contract wallet will be built using eip 4337 offering enhanced security and an optimal user experience. 
+The Discovery Account project aims to provide a secure solution for guiding new blockchain users through their first DeFi transactions. The smart contract wallet will be built using EIP 4337, offering enhanced security and an optimal user experience.
 
 ## 📚 Abstract
 
