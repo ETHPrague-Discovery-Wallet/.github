@@ -28,9 +28,21 @@ We aim to solve these issues by providing a user-friendly and secure solution fo
 - [Discovery account factory ](https://github.com/ETHPrague-Discovery-Wallet/SCW/blob/main/contracts/DiscoveryAccountFactory.sol) : A contract which allows us to deploy each user's account
 
 - [Discovery account](https://github.com/ETHPrague-Discovery-Wallet/SCW/blob/main/contracts/DiscoveryAccount.sol) : The main product of our protocol, it will protect the user using it's smart contract
-- [Management dApp](link) : Dashboard for the user to manage its authorized contract 
+- [Management dApp](https://web-app-woad-five.vercel.app/dashboard) : Dashboard for the user to manage its authorized contract 
 
 - [Plug in](https://github.com/ETHPrague-Discovery-Wallet/SCW/tree/update-reame) : Custom Trampoline based extension so the user can interact with authorized smart contract 
+
+## 📑 Smart Conntract
+
+- OPTIMISM MAINNET
+```
+ContractFactory : 0x160C8d17F78e74A359C3328e4b138db82096648E
+```  
+
+- Scroll
+```
+ContractFactory : 0x160C8d17F78e74A359C3328e4b138db82096648E 
+```
 
 ## :microphone: White paper 
 Here you can find our [White paper](link)
