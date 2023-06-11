@@ -1,5 +1,5 @@
 # 🌈  **Discovery Account**
-Discovery Account, an elegant Chrome extension built on the foundation of Trampoline, empowering users to effortlessly create and manage their own Discovery Account. 
+Discovery Account, an elegant Chrome extension built on the foundation of Trampoline, empowering users to effortlessly create and manage their own Discovery Account. <br>
 This Abstracted Account is meticulously crafted with the sole purpose of safeguarding users against scams and efficiently handling errors.
 
 ## [](https://github.com/ETHPrague-Discovery-Wallet#-abstract)📚  Abstract
