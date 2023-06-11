@@ -19,6 +19,7 @@ We aim to solve these issues by providing a user-friendly and secure solution fo
 - Robust smart contracts ⚡
 - Smart Contract Wallet Application based on [account abstraction](https://eips.ethereum.org/EIPS/eip-4337) :paintbrush: 
 - Accessible and intuitive  [web application](https://web-app-woad-five.vercel.app/)  🌐
+- Automatic DCA using the GHO stablecoin and automatic placement of liquidity on Aave (soon) :eyes:
 
 
 ## :computer: Our code 
