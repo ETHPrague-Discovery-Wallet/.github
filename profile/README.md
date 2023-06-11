@@ -9,7 +9,7 @@ The growing interest of populations for blockchain solutions is pushing new user
 However, embarking on this adventure is not without its dangers. Thousands of scams watch for the slightest of our errors to strip all of our tokens.
 
 It is to fight against this that Discovery Account was born. Based on the account abstraction (EIP-4337), it allows everyone to equip themselves with a new shield against fraud thanks to various defense mechanisms such as transaction analysis and a protection against the compromise of private keys. 
-<br>
+
 We aim to solve these issues by providing a user-friendly and secure solution for novice and advanced users looking to explore the world of decentralized finance.
 
 
@@ -28,7 +28,7 @@ We aim to solve these issues by providing a user-friendly and secure solution fo
 - [Discovery account factory ](https://github.com/ETHPrague-Discovery-Wallet/SCW/blob/main/contracts/DiscoveryAccountFactory.sol) : A contract which allows us to deploy each user's account
 
 - [Discovery account](https://github.com/ETHPrague-Discovery-Wallet/SCW/blob/main/contracts/DiscoveryAccount.sol) : The main product of our protocol, it will protect the user using it's smart contract
-- [ Management dApp](link) : Dashboard for the user to manage its authorized contract 
+- [Management dApp](link) : Dashboard for the user to manage its authorized contract 
 
 - [Plug in](https://github.com/ETHPrague-Discovery-Wallet/SCW/tree/update-reame) : Custom Trampoline based extension so the user can interact with authorized smart contract 
 
