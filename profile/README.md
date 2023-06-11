@@ -8,7 +8,8 @@ This Abstracted Account is meticulously crafted with the sole purpose of safegua
 The growing interest of populations for blockchain solutions is pushing new users every day to make their first transactions on attractive networks such as optimistic rollups. 
 However, embarking on this adventure is not without its dangers. Thousands of scams watch for the slightest of our errors to strip all of our tokens.
 
-It is to fight against this that Discovery Account was born. Based on the account abstraction (EIP-4337), it allows everyone to equip themselves with a new shield against fraud thanks to various defense mechanisms such as transaction analysis and a protection against the compromise of private keys. <br>
+It is to fight against this that Discovery Account was born. Based on the account abstraction (EIP-4337), it allows everyone to equip themselves with a new shield against fraud thanks to various defense mechanisms such as transaction analysis and a protection against the compromise of private keys. 
+<br>
 We aim to solve these issues by providing a user-friendly and secure solution for novice and advanced users looking to explore the world of decentralized finance.
 
 
