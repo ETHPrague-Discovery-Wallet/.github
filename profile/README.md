@@ -44,5 +44,11 @@ ContractFactory : 0x160C8d17F78e74A359C3328e4b138db82096648E
 ContractFactory : 0x160C8d17F78e74A359C3328e4b138db82096648E 
 ```
 
+- Sepolia 
+```
+ContractFactory : 0xaCBA3cdd272d17425133Ca2cb355ee20aa91E9f4 
+```
+
+
 ## :microphone: White paper 
 Here you can find our [White paper](https://github.com/ETHPrague-Discovery-Wallet/.github/blob/main/business/whitepaper.md)
