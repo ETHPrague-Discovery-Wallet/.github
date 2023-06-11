@@ -1,18 +1,23 @@
+
 # 🌈  **Discovery Account**
 Discovery Account, an elegant Chrome extension built on the foundation of Trampoline, empowering users to effortlessly create and manage their own Discovery Account. <br>
 This Abstracted Account is meticulously crafted with the sole purpose of safeguarding users against scams and efficiently handling errors.
 
 ## [](https://github.com/ETHPrague-Discovery-Wallet#-abstract)📚  Abstract
 
-Decentralized Finance (DeFi) has revolutionized the financial sector by offering lending, borrowing, trading, and other financial services without traditional intermediaries. However, many novice users face challenges when trying to enter the DeFi ecosystem due to security concerns, technical complexity, and lack of accessibility. With this project we aim to address these issues by providing a user-friendly and secure solution for novice users looking to explore the world of decentralized finance.
+The growing interest of populations for blockchain solutions is pushing new users every day to make their first transactions on attractive networks such as optimistic rollups. 
+However, embarking on this adventure is not without its dangers. Thousands of scams watch for the slightest of our errors to strip all of our tokens.
+
+It is to fight against this that Discovery Account was born. Based on the account abstraction (EIP-4337), it allows everyone to equip themselves with a new shield against fraud thanks to various defense mechanisms such as transaction analysis and a protection against the compromise of private keys. <br>
+We aim to solve these issues by providing a user-friendly and secure solution for novice and advanced users looking to explore the world of decentralized finance.
 
 
 ## :construction_worker: Features
 
+- A [customized wallet](https://github.com/ETHPrague-Discovery-Wallet/SCW) in your browser :bell:
+- Robust smart contracts ⚡
+- Smart Contract Wallet Application based on [account abstraction](https://eips.ethereum.org/EIPS/eip-4337) :paintbrush: 
 - Accessible and intuitive  [web application](https://web-app-woad-five.vercel.app/)  🌐
-- Robust smart contracts⚡
-- SCW Application :paintbrush: 
-- Dashboard Web application / Account Abstraction management dApp :bell:
 
 
 ## :computer: Our code 
